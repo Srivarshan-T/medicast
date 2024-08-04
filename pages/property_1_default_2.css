@@ -1,0 +1,14 @@
+.property-1-default-2 .log-in {
+  overflow-wrap: break-word;
+  font-family: 'Kadwa';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.property-1-default {
+  border-radius: 20px;
+  background: #007FFF;
+  display: flex;
+  padding: 2px 0.5px 2px 0;
+  box-sizing: border-box;
+}
