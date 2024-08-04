@@ -89,7 +89,7 @@
   box-sizing: border-box;
 }
 .desktop-12 .images-3-removebg-preview-1 {
-  background: url('../assets/images/images_3_removebg_preview_1.png') 50% / cover no-repeat;
+  background: url('assets/images/images_3_removebg_preview_1.png') 50% / cover no-repeat;
   margin: 0 123px 6px 0;
   width: 212px;
   height: 185px;
