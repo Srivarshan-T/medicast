@@ -50,7 +50,7 @@
   color: #000000;
 }
 .desktop-9 .login-removebg-preview-11 {
-  background: url('../assets/images/login_removebg_preview_11.png') 50% / cover no-repeat;
+  background: url('assets/images/login_removebg_preview_11.png') 50% / cover no-repeat;
   width: 58px;
   height: 56px;
 }
@@ -274,7 +274,7 @@
   color: #FFFFFF;
 }
 .desktop-9 .face-removebg-preview-1 {
-  background: url('../assets/images/face_removebg_preview_1.png') 50% / cover no-repeat;
+  background: url('assets/images/face_removebg_preview_1.png') 50% / cover no-repeat;
   margin: 0 16px;
   align-self: flex-start;
   width: 291px;
