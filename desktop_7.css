@@ -75,7 +75,7 @@
   color: #000000;
 }
 .desktop-7 .login-removebg-preview-11 {
-  background: url('../assets/images/login_removebg_preview_11.png') 50% / cover no-repeat;
+  background: url('assets/images/login_removebg_preview_11.png') 50% / cover no-repeat;
   width: 58px;
   height: 56px;
 }
@@ -137,42 +137,42 @@
 }
 .desktop-7 .image-8 {
   border-radius: 360px;
-  background: url('../assets/images/image_8.png') 50% / cover no-repeat;
+  background: url('assets/images/image_8.png') 50% / cover no-repeat;
   margin-right: 43px;
   width: 169px;
   height: 169px;
 }
 .desktop-7 .image-9 {
   border-radius: 360px;
-  background: url('../assets/images/image_9.png') 50% / cover no-repeat;
+  background: url('assets/images/image_9.png') 50% / cover no-repeat;
   margin-right: 56px;
   width: 169px;
   height: 169px;
 }
 .desktop-7 .image-10 {
   border-radius: 360px;
-  background: url('../assets/images/image_10.png') 50% / cover no-repeat;
+  background: url('assets/images/image_10.png') 50% / cover no-repeat;
   margin-right: 33px;
   width: 169px;
   height: 169px;
 }
 .desktop-7 .image-11 {
   border-radius: 360px;
-  background: url('../assets/images/image_11.png') 50% / cover no-repeat;
+  background: url('assets/images/image_11.png') 50% / cover no-repeat;
   margin-right: 66px;
   width: 169px;
   height: 169px;
 }
 .desktop-7 .image-12 {
   border-radius: 360px;
-  background: url('../assets/images/image_12.png') 50% / cover no-repeat;
+  background: url('assets/images/image_12.png') 50% / cover no-repeat;
   margin-right: 40px;
   width: 169px;
   height: 169px;
 }
 .desktop-7 .image-13 {
   border-radius: 90px;
-  background: url('../assets/images/image_13.png') 50% / cover no-repeat;
+  background: url('assets/images/image_13.png') 50% / cover no-repeat;
   width: 169px;
   height: 169px;
 }
@@ -377,7 +377,7 @@
   color: #FFFFFF;
 }
 .desktop-7 .face-removebg-preview-1 {
-  background: url('../assets/images/face_removebg_preview_1.png') 50% / cover no-repeat;
+  background: url('assets/images/face_removebg_preview_1.png') 50% / cover no-repeat;
   margin: 0 16.5px;
   margin-left: 325px;
   align-self: flex-start;
