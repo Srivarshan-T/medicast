@@ -180,7 +180,7 @@
   box-sizing: border-box;
 }
 .desktop-1 .group-26 {
-  background: url('../assets/images/image_2.png') 50% / cover no-repeat;
+  background: url('assets/images/image_2.png') 50% / cover no-repeat;
   position: relative;
   margin: 0 2px 102px 0;
   display: flex;
@@ -212,7 +212,7 @@
  
  
 .desktop-1 .image-3 {
-  background: url('../assets/images/image_3.png') 50% / cover no-repeat;
+  background: url('assets/images/image_3.png') 50% / cover no-repeat;
   padding-right: 100px;
   width: 500px;
   height: 515px;
@@ -293,7 +293,7 @@
   color: #FFFFFF;
 }
 .desktop-1 .face-removebg-preview-1 {
-  background: url('../assets/images/face_removebg_preview_1.png') 50% / cover no-repeat;
+  background: url('assets/images/face_removebg_preview_1.png') 50% / cover no-repeat;
   margin: 0 16.5px;
   margin-left: 325px;
   align-self: flex-start;
