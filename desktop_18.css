@@ -217,7 +217,7 @@
   height: 0px;
 }
 .desktop-18 .container-5 {
-  background: url('../assets/images/image_20.png') 50% / cover no-repeat;
+  background: url('assets/images/image_20.png') 50% / cover no-repeat;
   position: absolute;
   left: 0px;
   right: 0px;
@@ -314,7 +314,7 @@
   color: #FFFFFF;
 }
 .desktop-18 .face-removebg-preview-1 {
-  background: url('../assets/images/face_removebg_preview_1.png') 50% / cover no-repeat;
+  background: url('assets/images/face_removebg_preview_1.png') 50% / cover no-repeat;
   margin: 0 16.5px;
   align-self: flex-start;
   width: 300.8px;
