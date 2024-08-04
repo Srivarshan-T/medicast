@@ -56,7 +56,7 @@
   color: #000000;
 }
 .desktop-8 .login-removebg-preview-11 {
-  background: url('../assets/images/login_removebg_preview_11.png') 50% / cover no-repeat;
+  background: url('assets/images/login_removebg_preview_11.png') 50% / cover no-repeat;
   width: 58px;
   height: 56px;
 }
@@ -72,7 +72,7 @@
   box-sizing: border-box;
 }
 .desktop-8 .image-14 {
-  background: url('../assets/images/image_14.png') 50% / cover no-repeat;
+  background: url('assets/images/image_14.png') 50% / cover no-repeat;
   margin: 28px 57px 8px 0;
   width: 199px;
   height: 199px;
