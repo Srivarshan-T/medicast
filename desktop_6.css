@@ -1,0 +1,280 @@
+.desktop-6 .medicast {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 2.2px;
+  color: #000000;
+}
+.desktop-6 .container-10 {
+  position: absolute;
+  left: 17.6px;
+  top: 0px;
+  width: 44.3px;
+  height: 36.9px;
+}
+.desktop-6 .logo {
+  position: relative;
+  margin: 0 40.5px 8px 0;
+  display: flex;
+  padding-top: 32px;
+  box-sizing: border-box;
+}
+.desktop-6 .medicines-3 {
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: 3.4px;
+  color: #000000;
+}
+.desktop-6 .hover-3 {
+  background: #FFFFFF;
+  margin: 22px 25px 9px 0;
+  display: flex;
+  padding: 0 15.5px 0 15px;
+  box-sizing: border-box;
+}
+.desktop-6 .medicines-1 {
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: 3.4px;
+  color: #000000;
+}
+.desktop-6 .hover-1 {
+  background: #FFFFFF;
+  margin: 13px 31px 0 0;
+  display: flex;
+  padding: 7.5px 8.7px 7.5px 8.5px;
+  box-sizing: border-box;
+}
+.desktop-6 .medicines-2 {
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: 3.4px;
+  color: #000000;
+}
+.desktop-6 .hover-2 {
+  background: #FFFFFF;
+  margin: 19px 49px 8px 0;
+  display: flex;
+  padding: 0.5px 11px 0.5px 10.5px;
+  box-sizing: border-box;
+}
+.desktop-6 .medicines {
+  position: absolute;
+  left: -0.5px;
+  bottom: 6px;
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: 3.4px;
+  color: #000000;
+}
+.desktop-6 .hover {
+  background: #FFFFFF;
+  position: relative;
+  margin: 14px 0 2px 0;
+  width: 134px;
+  height: 48px;
+}
+.desktop-6 .container-5 {
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.desktop-6 .medicines-4 {
+  position: absolute;
+  left: -38.5px;
+  bottom: 6px;
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: 3.4px;
+  color: #000000;
+}
+.desktop-6 .hover-4 {
+  background: #FFFFFF;
+  position: relative;
+  margin: 14px 0 3px 0;
+  width: 134px;
+  height: 48px;
+}
+.desktop-6 .login-removebg-preview-11 {
+  background: url('../assets/images/login_removebg_preview_11.png') 50% / cover no-repeat;
+  margin-top: 9px;
+  width: 58px;
+  height: 56px;
+}
+.desktop-6 .container-7 {
+  margin-bottom: 75px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1342px;
+  box-sizing: border-box;
+}
+.desktop-6 .diabetes-level {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  padding-left: 0px;
+  font-weight: 600;
+  font-size: 30px;
+  color: #000000;
+}
+.desktop-6 .container-1 {
+  border-radius: 360px;
+  background: #F49B9B;
+  position: relative;
+  margin-right: 69px;
+  display: flex;
+  padding: 67px 7.9px 61px 18px;
+  box-sizing: border-box;
+}
+.desktop-6 .mental-health {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 30px;
+  color: #000000;
+}
+.desktop-6 .container {
+  border-radius: 360px;
+  background: #F49B9B;
+  position: relative;
+  margin-right: 82px;
+  padding: 67px 15px 61px 15px;
+  width: 208px;
+  box-sizing: border-box;
+}
+.desktop-6 .heart-rate {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 30px;
+  color: #000000;
+}
+.desktop-6 .container-8 {
+  border-radius: 360px;
+  background: #F49B9B;
+  position: relative;
+  margin-right: 101px;
+  display: flex;
+  padding: 67px 24.2px 61px 0;
+  width: 208px;
+  box-sizing: border-box;
+}
+.desktop-6 .walk-steps {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 30px;
+  color: #000000;
+}
+.desktop-6 .container-4 {
+  border-radius: 360px;
+  background: #F49B9B;
+  position: relative;
+  display: flex;
+  padding: 88px 12.8px 85px 12.8px;
+  width: 208px;
+  box-sizing: border-box;
+}
+.desktop-6 .container-6 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-6 .mgd-l {
+  margin: 6px 12px 24px 0;
+  display: inline-block;
+  width: 82px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.desktop-6 .good {
+  margin: 12px 0 18px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.desktop-6 .beatsminute {
+  margin-bottom: 6px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.desktop-6 .steps {
+  margin-top: 6px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.desktop-6 .container-2 {
+  margin: 0 61px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 947.3px;
+  box-sizing: border-box;
+}
+.desktop-6 .container-3 {
+  border-radius: 90px;
+  background: #F8E1E1;
+  position: relative;
+  margin: 0 15px 42px 40px;
+  display: flex;
+  flex-direction: column;
+  padding: 83px 50px 69px 57px;
+  width: fit-content ;
+  box-sizing: border-box;
+}
+.desktop-6 .image-6 {
+  background: url('../assets/images/image_6.png') 50% / cover no-repeat;
+  margin: 0 186px 36px 0;
+  width: 534px;
+  height: 361px;
+}
+.desktop-6 .image-7 {
+  background: url('../assets/images/image_7.png') 50% / cover no-repeat;
+  width: 538px;
+  height: 397px;
+}
+.desktop-6 .container-9 {
+  margin: 0 17px 0 67px;
+  display: flex;
+  flex-direction: row;
+  width: 1258px;
+  box-sizing: border-box;
+}
+.desktop-6 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 17px 79px 4px 19px;
+  width: 1440px;
+  box-sizing: border-box;
+}

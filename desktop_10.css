@@ -1,0 +1,334 @@
+.desktop-10 .donate {
+  overflow-wrap: break-word;
+  font-family: 'Kadwa';
+  font-weight: 400;
+  font-size: 18px;
+  margin-left: 150px;
+  color: #000000;
+}
+.desktop-10 .frame-3 {
+  margin: 6px 0 14px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.desktop-10 .home {
+  margin: 6px 0 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kadwa';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.desktop-10 .services {
+  margin: 6px 0 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kadwa';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.desktop-10 .product {
+  margin: 6px 0 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kadwa';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.desktop-10 .about-us {
+  margin: 6px 0 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kadwa';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.desktop-10 .contact-us {
+  margin: 6px 0 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kadwa';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.desktop-10 .login-removebg-preview-11 {
+  background: url('../assets/images/login_removebg_preview_11.png') 50% / cover no-repeat;
+  width: 58px;
+  height: 56px;
+}
+.desktop-10 .container-4 {
+  background: #FFF1F1;
+  position: relative;
+  margin-bottom: 2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 5px 85px 0 0;
+  width: 1435px;
+  box-sizing: border-box;
+}
+.desktop-10 .image-15 {
+  background: url('../assets/images/image_15.png') 50% / cover no-repeat;
+  margin: 0 33px 31px 0;
+  width: 1407px;
+  height: 342px;
+}
+.desktop-10 .enter-body-temperature {
+  margin: 15px 7.1px 15px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 2.8px;
+  color: #000000;
+}
+.desktop-10 .rectangle-32 {
+  background: #FFFFFF;
+  width: 557px;
+  height: 60px;
+}
+.desktop-10 .container-2 {
+  margin-bottom: 18px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-10 .enter-blood-wbc-count {
+  margin: 15px 19.7px 15px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 2.8px;
+  color: #000000;
+}
+.desktop-10 .rectangle-33 {
+  background: #FFFFFF;
+  width: 557px;
+  height: 60px;
+}
+.desktop-10 .container-5 {
+  margin-bottom: 18px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-10 .enter-platelet-count {
+  margin: 15px 50.1px 15px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 2.8px;
+  color: #000000;
+}
+.desktop-10 .rectangle-34 {
+  background: #FFFFFF;
+  width: 557px;
+  height: 60px;
+}
+.desktop-10 .container-6 {
+  margin-bottom: 18px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-10 .body-pain {
+  margin: 15px 15px 15px 0;
+  display: inline-block;
+  width: 121px;
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 2.8px;
+  color: #000000;
+}
+.desktop-10 .rectangle-35 {
+  background: #FFFFFF;
+  width: 557px;
+  height: 60px;
+}
+.desktop-10 .container-7 {
+  margin-bottom: 18px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 847px;
+  box-sizing: border-box;
+}
+.desktop-10 .rash {
+  margin: 15px 15px 15px 0;
+  display: inline-block;
+  width: 52px;
+  
+  font-family: 'Kanit';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 2.8px;
+  color: #000000;
+}
+.desktop-10 .rectangle-36 {
+  background: #FFFFFF;
+  width: 557px;
+  height: 60px;
+}
+.desktop-10 .container {
+  margin-bottom: 18px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 847px;
+  box-sizing: border-box;
+}
+.desktop-10 .log-in {
+  overflow-wrap: break-word;
+  font-family: 'Kadwa';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.desktop-10 .frame-1 {
+  border-radius: 20px;
+  background: #007FFF;
+  margin-left: 14px;
+  display: flex;
+  padding: 2px 14.2px 2px 13.5px;
+  box-sizing: border-box;
+}
+.desktop-10 .group-4 {
+  border-radius: 90px;
+  background: #EEEEEE;
+  position: relative;
+  margin: 0 0 37px 41px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 68px 56px 84px 42px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-10 .reason-of-high-fevers {
+  margin: 0 95px 27px 95px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Kadwa';
+  font-weight: 700;
+  font-size: 32px;
+  color: #000000;
+}
+.desktop-10 .almost-any-infection-can-cause-afever-including-bone-infectionsosteomyelitis-appendicitis-skin-infections-or-cellulitis-and-meningitis-respiratory-infections-such-as-colds-or-flu-like-illnesses-sore-throats-ear-infections-sinus-infections-mononucleosis-bronchitis-pneumonia-and-tuberculosis-urinary-tract-infections-viral-gastroenteritis-and-bacterial-gastroenteritis {
+  margin: 0 0 110px 73.1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kadwa';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+  padding-left: 200px;
+}
+.desktop-10 .you-have-adengue-fever {
+  overflow-wrap: break-word;
+  font-family: 'Kadwa';
+  padding-bottom:100 px;
+  font-weight: 700;
+  font-size: 48px;
+  color: #FF0000;
+}
+.desktop-10 .group-6 {
+  margin: 0 1px 40px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.desktop-10 .need-suggesetions {
+  overflow-wrap: break-word;
+
+
+}
+.desktop-10 .group-5 {
+  position: relative;
+  display: flex;
+  box-sizing: border-box;
+}
+.desktop-10 .medicines {
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 900;
+
+  font-size: 24px;
+  letter-spacing: 3.4px;
+  color: #000000;
+  padding-bottom: -70px;
+}
+.desktop-10 .hover {
+  
+  position: absolute;
+  left:-100px;
+  bottom: -100px;
+  display: flex;
+  text-align: center;
+  font-weight: bolder;
+  padding: 19px 20.5px;
+  box-sizing: border-box;
+}
+.desktop-10 .group-7 {
+  position: relative;
+  margin-right: 20.7px;
+  display: flex;
+  padding-bottom: 10px;
+  box-sizing: border-box;
+}
+.desktop-10 .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  height: 1800px;
+  box-sizing: border-box;
+}
+.desktop-10 .medicast {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 400;
+  font-size: 16px;
+  padding-top: 30px;
+  letter-spacing: 2.2px;
+  color: #000000;
+}
+.desktop-10 .container-3 {
+  position: absolute;
+  left: 17.6px;
+  top: 0px;
+
+  width: 44.3px;
+  height: 36.9px;
+}
+.desktop-10 .logo {
+  position: absolute;
+  left: 19px;
+  top: 7px;
+  display: flex;
+  height: 55.9px;
+  box-sizing: border-box;
+}
+.desktop-10 {
+  background: #D2B2FC;
+  display: flex;
+  width: 1412px;
+  height: 2000px;
+  box-sizing: border-box;
+}

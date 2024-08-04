@@ -1,0 +1,287 @@
+.desktop-8 .donate {
+  overflow-wrap: break-word;
+  font-family: 'Kadwa';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.desktop-8 .frame-3 {
+  margin: 6px 0 14px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.desktop-8 .home {
+  margin: 6px 0 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kadwa';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.desktop-8 .services {
+  margin: 6px 0 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kadwa';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.desktop-8 .product {
+  margin: 6px 0 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kadwa';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.desktop-8 .about-us {
+  margin: 6px 0 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kadwa';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.desktop-8 .contact-us {
+  margin: 6px 0 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kadwa';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.desktop-8 .login-removebg-preview-11 {
+  background: url('../assets/images/login_removebg_preview_11.png') 50% / cover no-repeat;
+  width: 58px;
+  height: 56px;
+}
+.desktop-8 .container-1 {
+  background: #FFF1F1;
+  position: relative;
+  margin-bottom: 26px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 5px 85px 0 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.desktop-8 .image-14 {
+  background: url('../assets/images/image_14.png') 50% / cover no-repeat;
+  margin: 28px 57px 8px 0;
+  width: 199px;
+  height: 199px;
+}
+.desktop-8 .dengue {
+  margin-bottom: 15px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 700;
+  font-size: 40px;
+  letter-spacing: 5.6px;
+  color: #000000;
+}
+.desktop-8 .symptoms-transmission-and-current-treatments-for-dengue {
+  overflow-wrap: break-word;
+  font-family: 'Kadwa';
+  font-weight: 400;
+  font-size: 40px;
+  letter-spacing: 5.6px;
+  color: #000000;
+}
+.desktop-8 .container-6 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.desktop-8 .group-20 {
+  background: #EEEEEE;
+  position: relative;
+  margin: 0 100px 26px 100px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 18px 105.2px 38px 26px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-8 .medicast {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 2.2px;
+  color: #000000;
+}
+.desktop-8 .container-3 {
+  position: absolute;
+  left: 17.6px;
+  top: 0px;
+  width: 44.3px;
+  height: 36.9px;
+}
+.desktop-8 .logo {
+  position: relative;
+  margin: 0 26px 45px 26px;
+  display: flex;
+  align-self: flex-start;
+  padding-top: 32px;
+  box-sizing: border-box;
+}
+.desktop-8 .enter-your-location-in-last-45-days {
+  margin: 15px 12.5px 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kadwa';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: 3.4px;
+  color: #000000;
+}
+.desktop-8 .rectangle-28 {
+  background: #FFFFFF;
+  width: 537px;
+  height: 70px;
+}
+.desktop-8 .container-5 {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-8 .log-in {
+  overflow-wrap: break-word;
+  font-family: 'Kadwa';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.desktop-8 .frame-1 {
+  border-radius: 20px;
+  background: #007FFF;
+  margin-right: 64px;
+  display: flex;
+  padding: 2px 14.2px 2px 13.5px;
+  box-sizing: border-box;
+}
+.desktop-8 .container-2 {
+  background: #EEEEEE;
+  position: relative;
+  margin: 0 139px 54px 139px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-start;
+  padding: 52px 28px 45px 37px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-8 .what-is-dengue {
+  margin-bottom: 32px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 700;
+  font-size: 40px;
+  letter-spacing: 5.6px;
+  color: #000000;
+}
+.desktop-8 .dengue-is-caused-by-avirus-that-is-mostly-transmitted-by-the-bite-of-female-mosquitoes-of-the-species-aedes-aegypti-dengue-symptoms-range-from-none-to-serious-flu-like-symptoms-asmall-proportion-of-people-develop-severe-dengue-which-can-be-fatal-there-are-four-closely-related-dengue-viruses-which-are-called-dengue-serotypes-although-recovery-from-infection-gives-immunity-from-the-same-dengue-serotype-it-also-increases-the-risk-of-severe-dengue-if-people-are-later-infected-by-adifferent-serotype-dengue-is-the-most-widely-distributed-mosquito-borne-viral-disease-in-the-world-it-continues-to-spread-rapidly-because-of-climate-change-rapid-urbanization-and-population-growth-outbreaks-are-usually-seasonal-peakingduring-and-after-rainy-seasons {
+  margin-left: 37px;
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 4.5px;
+  color: #000000;
+}
+.dengue-is-caused-by-avirus-that-is-mostly-transmitted-by-the-bite-of-female-mosquitoes-of-the-species-aedes-aegypti-dengue-symptoms-range-from-none-to-serious-flu-like-symptoms-asmall-proportion-of-people-develop-severe-dengue-which-can-be-fatal-there-are-four-closely-related-dengue-viruses-which-are-called-dengue-serotypes-although-recovery-from-infection-gives-immunity-from-the-same-dengue-serotype-it-also-increases-the-risk-of-severe-dengue-if-people-are-later-infected-by-adifferent-serotype-dengue-is-the-most-widely-distributed-mosquito-borne-viral-disease-in-the-world-it-continues-to-spread-rapidly-because-of-climate-change-rapid-urbanization-and-population-growth-outbreaks-are-usually-seasonal-peakingduring-and-after-rainy-seasons-sub20 {
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 4.5px;
+  line-height: 1.333;
+}
+.dengue-is-caused-by-avirus-that-is-mostly-transmitted-by-the-bite-of-female-mosquitoes-of-the-species-aedes-aegypti-dengue-symptoms-range-from-none-to-serious-flu-like-symptoms-asmall-proportion-of-people-develop-severe-dengue-which-can-be-fatal-there-are-four-closely-related-dengue-viruses-which-are-called-dengue-serotypes-although-recovery-from-infection-gives-immunity-from-the-same-dengue-serotype-it-also-increases-the-risk-of-severe-dengue-if-people-are-later-infected-by-adifferent-serotype-dengue-is-the-most-widely-distributed-mosquito-borne-viral-disease-in-the-world-it-continues-to-spread-rapidly-because-of-climate-change-rapid-urbanization-and-population-growth-outbreaks-are-usually-seasonal-peakingduring-and-after-rainy-seasons {
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 32px;
+  
+  letter-spacing: 4.5px;
+  line-height: 1.333;
+}
+.desktop-8 .group-21 {
+  margin: 0 144px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-8 .container-4 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 1440px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-8 .you-have-affected-by-dengue-virus-dont-worry-our-company-had-treatment-to-cure {
+  overflow-wrap: break-word;
+  font-family: 'Kadwa';
+  font-weight: 400;
+  font-size: 40px;
+  color: #000000;
+}
+.desktop-8 .frame-13 {
+  background: #FFFDFD;
+  position: absolute;
+  left: 0px;
+  top: 389px;
+  display: flex;
+  padding: 4px 0 0 10px;
+  box-sizing: border-box;
+}
+.desktop-8 .medicast-1 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 2.2px;
+  color: #000000;
+  top:37px;
+}
+.desktop-8 .container {
+  position: absolute;
+  left: 17.6px;
+  top: 0px;
+  width: 44.3px;
+  height: 36.9px;
+}
+.desktop-8 .logo-1 {
+  position: absolute;
+  left: 15px;
+  top: 6px;
+  display: flex;
+  height: 55.9px;
+  box-sizing: border-box;
+}
+.desktop-8 {
+  background: #FFFFFF;
+  display: flex;
+  padding-left: 4px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+
