@@ -1,0 +1,221 @@
+.desktop-4 .medicast {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 2.2px;
+  color: #000000;
+}
+.desktop-4 .container {
+  position: absolute;
+  left: 17.6px;
+  top: 0px;
+  width: 44.3px;
+  height: 36.9px;
+}
+.desktop-4 .logo {
+  position: relative;
+  display: flex;
+  padding-top: 32px;
+  box-sizing: border-box;
+}
+.desktop-4 .donate {
+  overflow-wrap: break-word;
+  font-family: 'Kadwa';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.desktop-4 .frame-3 {
+  margin: 6px 0 14px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.desktop-4 .home {
+  margin: 6px 0 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kadwa';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.desktop-4 .services {
+  margin: 6px 0 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kadwa';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.desktop-4 .product {
+  margin: 6px 0 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kadwa';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.desktop-4 .about-us {
+  margin: 6px 0 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kadwa';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.desktop-4 .contact-us {
+  margin: 6px 0 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kadwa';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+  position: relative;
+  right: 30px;
+}
+.desktop-4 .container-2 {
+  background: #FFF1F1;
+  position: relative;
+  margin-bottom: 38px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 5px 0 0 19px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.desktop-4 .images-3-removebg-preview-1 {
+  background: url('../assets/images/images_3_removebg_preview_1.png') 50% / cover no-repeat;
+  margin: 0 28px 6px 0;
+  width: 212px;
+  height: 185px;
+}
+.desktop-4 .email {
+  margin: 0 8px 22px 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: 3.4px;
+  color: #000000;
+}
+.desktop-4 .rectangle-2 {
+  background: #FFFDFD;
+  margin: 0 0 26px 14px;
+  width: 405px;
+  height: 63px;
+}
+.desktop-4 .password {
+  margin: 0 8px 22px 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: 3.4px;
+  color: #000000;
+}
+.desktop-4 .rectangle-3 {
+  background: #FFFFFF;
+  margin: 0 6px 15px 8px;
+  width: 405px;
+  height: 63px;
+}
+.desktop-4 .forgot-password {
+  margin-bottom: 154px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 2.8px;
+  color: #000000;
+}
+.desktop-4 .or {
+  margin: 0 0 11px 188.2px;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 2.2px;
+  color: #000000;
+  position: relative;
+  left: 20px;
+}
+.desktop-4 .sign-up {
+  align-self: flex-end;
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 2.8px;
+  color: #000000;
+  position: relative;
+  left: 175px;
+}
+.desktop-4 .forgot-password-1 {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-4 .container-3 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.desktop-4 .login {
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 4.5px;
+  color: #000000;
+  position:relative;
+  left: 50px;
+}
+.desktop-4 .container-4 {
+  border-radius: 90px;
+  background: #FFFFFF;
+  position: absolute;
+  right: 123px;
+  bottom: 119px;
+  display: flex;
+  padding: 1px 0 3px 1.1px;
+  width: 212px;
+  box-sizing: border-box;
+}
+.desktop-4 .container-1 {
+  border-radius: 90px;
+  background: rgba(59, 156, 255, 0.77);
+  position: relative;
+  margin-right: 10px;
+  display: flex;
+  padding: 105px 36px 38px 33px;
+  box-sizing: border-box;
+}
+.desktop-4 {
+  background: #D5C3DD;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 59px;
+  width: auto;
+  box-sizing: border-box;
+  
+  
+}

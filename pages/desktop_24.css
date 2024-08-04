@@ -1,0 +1,135 @@
+.desktop-24 .rectangle-25 {
+  background: #FFF1F1;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 1440px;
+  height: 61px;
+}
+.desktop-24 .medicast {
+  margin: 27px 12px 5px 0;
+  
+  width: 80px;
+  
+  font-family: 'Kanit';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 2.2px;
+  color: #000000;
+  display: inline-block;
+}
+.desktop-24 .donate {
+  overflow-wrap: break-word;
+  font-family: 'Kadwa';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.desktop-24 .frame-3 {
+  margin: 8px 0 12px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.desktop-24 .home {
+  margin: 8px 0 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kadwa';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.desktop-24 .services {
+  margin: 8px 0 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kadwa';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.desktop-24 .product {
+  margin: 8px 0 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kadwa';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.desktop-24 .about-us {
+  margin: 8px 0 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kadwa';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.desktop-24 .contact-us {
+  margin: 8px 0 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kadwa';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.desktop-24 .login-removebg-preview-11 {
+  background: url('../assets/images/login_removebg_preview_11.png') 50% / cover no-repeat;
+  width: 58px;
+  height: 56px;
+}
+.desktop-24 .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1363px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-24 .container {
+  position: absolute;
+  left: 42.6px;
+  top: 5px;
+  width: 44.3px;
+  height: 36.9px;
+}
+.desktop-24 .group-30 {
+  position: relative;
+  margin-bottom: 189px;
+  display: flex;
+  padding: 10px 52px 0 25px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.desktop-24 .booked {
+  margin: 0 58.5px 78px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 700;
+  font-size: 128px;
+  letter-spacing: 17.9px;
+  color: #FFFFFF;
+}
+.desktop-24 .hospital-address-and-doctors-name-will-be-sent-to-your-registered-mobile-number {
+  margin-left: 7.8px;
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 700;
+  font-size: 32px;
+  letter-spacing: 4.5px;
+  color: #FFFFFF;
+}
+.desktop-24 {
+  background: #007FFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 404px;
+  width: 1440px;
+  box-sizing: border-box;
+}

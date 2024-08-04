@@ -1,0 +1,177 @@
+.frame-10 .medicines-1 {
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: 3.4px;
+  color: #000000;
+}
+.frame-10 .hover-1 {
+  background: #EEEEEE;
+  margin-bottom: 1px;
+  display: flex;
+  align-self: flex-start;
+  padding: 8.5px 6.5px 8.5px 6px;
+  box-sizing: border-box;
+}
+.frame-10 .medicines-2 {
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: 3.4px;
+  color: #000000;
+}
+.frame-10 .hover-2 {
+  background: #EEEEEE;
+  margin-bottom: 1px;
+  display: flex;
+  padding: 2.5px 9px 2.5px 8.5px;
+  box-sizing: border-box;
+}
+.frame-10 .medicines-3 {
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: 3.4px;
+  color: #000000;
+}
+.frame-10 .hover-3 {
+  background: #EEEEEE;
+  display: flex;
+  align-self: flex-start;
+  padding: 9px 10px 9px 9.5px;
+  box-sizing: border-box;
+}
+.frame-10 .medicines-4 {
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: 3.4px;
+  color: #000000;
+}
+.frame-10 .hover-4 {
+  background: #EEEEEE;
+  display: flex;
+  align-self: flex-start;
+  padding: 11px 10.8px 11px 10.5px;
+  box-sizing: border-box;
+}
+.frame-10 .medicines-5 {
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: 3.4px;
+  color: #000000;
+}
+.frame-10 .hover-5 {
+  background: #EEEEEE;
+  display: flex;
+  align-self: flex-start;
+  padding: 11px 9.7px 11px 9.5px;
+  box-sizing: border-box;
+}
+.frame-10 .medicines-6 {
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: 3.4px;
+  color: #000000;
+}
+.frame-10 .hover-6 {
+  background: #EEEEEE;
+  margin: 0 18px 1px 0;
+  display: flex;
+  padding: 10.5px 8.5px 10.5px 7.5px;
+  box-sizing: border-box;
+}
+.frame-10 .medicines-7 {
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: 3.4px;
+  color: #000000;
+}
+.frame-10 .hover-7 {
+  background: #EEEEEE;
+  margin-bottom: 57px;
+  display: flex;
+  align-self: flex-start;
+  padding: 11px 9.6px 11px 9.5px;
+  box-sizing: border-box;
+}
+.frame-10 .medicines-9 {
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: 3.4px;
+  color: #000000;
+}
+.frame-10 .hover-9 {
+  background: #EEEEEE;
+  display: flex;
+  align-self: flex-start;
+  padding: 11px 17.3px 11px 17px;
+  box-sizing: border-box;
+}
+.frame-10 .container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.frame-10 .medicines-8 {
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: 3.4px;
+  color: #000000;
+}
+.frame-10 .hover-8 {
+  background: #EEEEEE;
+  position: absolute;
+  left: 5px;
+  bottom: 70px;
+  display: flex;
+  padding: 11px 14.8px 11px 14px;
+  box-sizing: border-box;
+}
+.frame-10 .container-1 {
+  background: #EEEEEE;
+  position: relative;
+  padding: 40px 5px 12px 5px;
+  width: 287px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.frame-10 .medicines {
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: 3.4px;
+  color: #000000;
+}
+.frame-10 .hover {
+  background: #EEEEEE;
+  position: absolute;
+  left: -5px;
+  top: 3px;
+  display: flex;
+  padding: 9px 4.7px 9px 4px;
+  height: 54px;
+  box-sizing: border-box;
+}
+.frame-10 {
+  background: #EEEEEE;
+  display: flex;
+  padding-top: 12px;
+  box-sizing: border-box;
+}
